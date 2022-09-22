@@ -7,5 +7,5 @@ NOTE:
 
 LOGIN DETAILS
 
-INSPECTOR: USERID = karan   PWD = patil
-COMMISSONER: USERID = ankitesh  PWD = gupta
+INSPECTOR: USERID = dhruv   PWD = sharma
+COMMISSONER: USERID = aditya  PWD = kashyap
